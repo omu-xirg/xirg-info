@@ -280,15 +280,15 @@ figure {
 
 .large-wrapper {
   position: relative;
-  width: calc(100% + 200px);
-  max-width: calc(100vw - (2 * $wrapper-padding - 200px));
+  width: calc(100% + 180px);
+  max-width: calc(100vw - (2 * $wrapper-padding - 180px));
   margin-left: 50%;
   transform: translateX(-50%);
   padding-left: $wrapper-padding;
   padding-right: $wrapper-padding;
 }
 
-@media (max-width: $content-width + 200px + 2 * $wrapper-padding) {
+@media (max-width: $content-width + 180px + 2 * $wrapper-padding) {
   .large-wrapper {
     width: 100%;
     max-width: 100%;
