@@ -10,7 +10,7 @@ title: '研究テーマ'
   <div class="index-card-item">
     <img src="/img/icon_interface.svg" width="40px" height="40px">
     <h3>Nexable Interface</h3>
-    <p>人間と機械のインタラクションを最適化する研究分野です。認知心理学の知見を活用し、直感的で効果的なユーザーインターフェースを開発します。視線計測や脳機能計測を通じて人の状態や行動意図を理解し、状況に応じた情報提示を行うシステムを構築します。</p>
+    <p>人間と技術の相互作用を最適化する研究分野です。身の回りのものを"ネクサブル"にするユーザーインターフェースを開発します。視線計測や脳機能計測を通じて人の状態や行動意図を理解して状況に応じた情報提示を行うシステムなどがその例です。</p>
   </div>
   <div class="index-card-item">
     <img src="/img/icon_intelligence.svg" width="40px" height="40px">

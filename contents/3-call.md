@@ -73,7 +73,7 @@ title: '進学希望の方へ'
 
 #### Q. 1期生として入るデメリットはありますか？
 
-<p style="margin-top: 0; text-indent: -1.2rem; padding-left: 1.2rem;">A. 研究室に先輩がいないのが一番の懸念点だと思います。この点については、DFKI Lab Japanやカイザースラウテルン=ランダウ大学の<a href="https://www.psyberlab.de/" target="_blank" rel="noopener noreferrer">PsyberaLab (旧石丸研)</a>、他の研究グループと共同での輪講や研究室行事を企画して、交流の機会を設ける予定です。
+<p style="margin-top: 0; text-indent: -1.2rem; padding-left: 1.2rem;">A. 研究室に先輩がいないのが一番の懸念点だと思います。この点については、カイザースラウテルン=ランダウ大学の<a href="https://www.psyberlab.de/" target="_blank" rel="noopener noreferrer">PsyberLab (旧石丸研)</a>やDFKI Lab Japan、他の研究グループと共同での輪講や研究室行事を企画して、交流の機会を設ける予定です。
 
 #### Q. 見学や個別相談は可能ですか？
 
