@@ -13,6 +13,26 @@ title: '進学希望の方へ'
 * 読書行動解析と生成AIを活用したデジタル教科書の研究
 * 深層学習による頭部CT画像解析の研究
 
+<div class="index-card-container">
+  <div class="index-card-item call-card-item">
+    <h3>説明会 (Zoom)</h3>
+    <p>2024年は下記の日時で実施します。参加希望の方は<a href="https://forms.gle/feSbswwcQQPh4JJA9">Google Forms</a>でお申し込みください。どの回も内容は同じで、当日までに希望者が0人の日は開催しません。</p>
+    <ul>
+      <li>日付：8/8 (木)、8/9 (金)、9/2 (月)、9/3 (火) </li>
+      <li>時間：すべて15:00-16:00</li>
+    </ul>
+  </div>
+  <div class="index-card-item call-card-item">
+    <h3>個別面談</h3>
+    <p>説明会にでられない方や個別にお話ししたい方向けに面談を行います。以下の情報を<a href="#%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B">メール</a>でご連絡ください。</p>
+    <ul>
+      <li>希望日時 (8/5〜9/9で複数候補をください)</li>
+      <li>対面 / オンライン の希望</li>
+      <li>参加人数 (1人でも複数人でもOKです)</li>
+    </ul>
+  </div>
+</div>
+
 ### 大学院生 (修士・博士)
 
 学外の方も応募が可能です。<a href="https://www.omu.ac.jp/admissions/g/exam_info/graduate/gs_info/" target="_blank" rel="noopener noreferrer">大学院入試 (大阪公立大学大学院 情報学研究科 基幹情報学専攻)</a> を受けていただくことになります。出願前に必ず、下記お問い合わせ情報から石丸との面談を行ってください。研究テーマや支援プログラムについて説明します。また、博士後期課程 (博士) に関しては、受け入れ体制が整うまで<a href="https://imlab.jp" target="_blank" rel="noopener noreferrer">知能メディア処理研究グループ</a>との共同指導になります。
