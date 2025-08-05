@@ -6,7 +6,7 @@ title: 'ビジョン'
 
 研究のキーワードは、認知心理学、技能伝承、学習支援、医療情報、行動認識、視線計測、脳機能計測、AR/VRです。
 
-<div class="index-card-container large-wrapper">
+<!-- <div class="index-card-container large-wrapper">
   <div class="index-card-item">
     <img src="/img/icon_learning.svg" width="24px" height="24px">
     <h3>学習力の拡張</h3>
@@ -22,4 +22,4 @@ title: 'ビジョン'
     <h3>伝達力の拡張</h3>
     <p>人間についての理解を深める研究分野です。脳を情報処理装置に見立て、人やコンピュータの情報処理プロセスを神経科学と計算機科学の両面から解明します。また、人と技術の融合が心にもたらす影響を調査し、人間と機械のよりよい共進化をデザインします。</p>
   </div>
-</div>
+</div> -->
