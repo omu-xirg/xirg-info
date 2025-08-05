@@ -2,7 +2,7 @@
 title: 'プロジェクト'
 ---
 
-これまでの研究プロジェクトから融能計算に関連するものを紹介します。(すべての論文のリストは[こちら](https://shoya.io/ja/publications))
+これまでの研究プロジェクトから拡張知能に関連するものを紹介します。(すべての論文のリストは[こちら](https://shoya.io/ja/publications))
 
 <div class="card">
   <a href="https://dl.acm.org/doi/abs/10.1145/3391203.3391227" target="_blank" rel="noopener noreferrer"></a>

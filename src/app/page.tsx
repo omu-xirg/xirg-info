@@ -14,7 +14,9 @@ export default async function Page() {
       <div className="site-cover">
         <div className="cover-title">
           <div className="wrapper">
-            <h1>Designing the Nexus of Human and Technological Capabilities</h1>
+            <h1>
+              Toward a Seamless Fusion of Human and Artificial Intelligence
+            </h1>
           </div>
         </div>
       </div>
@@ -33,7 +35,7 @@ export default async function Page() {
       ))}
       <div className="site-footer">
         <p>
-          © 2024 <a href={`${basePath}/`}>Nexable Computing Lab</a>
+          © 2024 <a href={`${basePath}/`}>XIRG</a>
         </p>
       </div>
     </>

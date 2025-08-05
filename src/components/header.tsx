@@ -37,7 +37,7 @@ export const Header: React.FC<HeaderProps> = (props) => {
               router.push('/')
             }}
           >
-            Nexable Computing Lab / 融能計算研究グループ
+            Expanded Intelligence Research Group (XIRG)
           </a>
         </div>
         <div className="nav-container">
