@@ -37,7 +37,7 @@ export const Header: React.FC<HeaderProps> = (props) => {
               router.push('/')
             }}
           >
-            Expanded Intelligence Research Group (XIRG)
+            Extended Intelligence Research Group (XIRG)
           </a>
         </div>
         <div className="nav-container">
